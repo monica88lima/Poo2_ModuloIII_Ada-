@@ -1,0 +1,15 @@
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioAula1\exercicioAula1\bin\Debug\net6.0\exercicioAula1.exe
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioAula1\exercicioAula1\bin\Debug\net6.0\exercicioAula1.deps.json
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioAula1\exercicioAula1\bin\Debug\net6.0\exercicioAula1.runtimeconfig.json
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioAula1\exercicioAula1\bin\Debug\net6.0\exercicioAula1.dll
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioAula1\exercicioAula1\bin\Debug\net6.0\exercicioAula1.pdb
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioAula1\exercicioAula1\obj\Debug\net6.0\exercicioAula1.csproj.AssemblyReference.cache
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioAula1\exercicioAula1\obj\Debug\net6.0\exercicioAula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioAula1\exercicioAula1\obj\Debug\net6.0\exercicioAula1.AssemblyInfoInputs.cache
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioAula1\exercicioAula1\obj\Debug\net6.0\exercicioAula1.AssemblyInfo.cs
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioAula1\exercicioAula1\obj\Debug\net6.0\exercicioAula1.csproj.CoreCompileInputs.cache
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioAula1\exercicioAula1\obj\Debug\net6.0\exercicioAula1.dll
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioAula1\exercicioAula1\obj\Debug\net6.0\refint\exercicioAula1.dll
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioAula1\exercicioAula1\obj\Debug\net6.0\exercicioAula1.pdb
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioAula1\exercicioAula1\obj\Debug\net6.0\exercicioAula1.genruntimeconfig.cache
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioAula1\exercicioAula1\obj\Debug\net6.0\ref\exercicioAula1.dll
