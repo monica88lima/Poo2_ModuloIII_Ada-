@@ -1,0 +1,15 @@
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\aula2_PooII\aula2_PooII\bin\Debug\net6.0\aula2_PooII.exe
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\aula2_PooII\aula2_PooII\bin\Debug\net6.0\aula2_PooII.deps.json
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\aula2_PooII\aula2_PooII\bin\Debug\net6.0\aula2_PooII.runtimeconfig.json
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\aula2_PooII\aula2_PooII\bin\Debug\net6.0\aula2_PooII.dll
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\aula2_PooII\aula2_PooII\bin\Debug\net6.0\aula2_PooII.pdb
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\aula2_PooII\aula2_PooII\obj\Debug\net6.0\aula2_PooII.csproj.AssemblyReference.cache
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\aula2_PooII\aula2_PooII\obj\Debug\net6.0\aula2_PooII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\aula2_PooII\aula2_PooII\obj\Debug\net6.0\aula2_PooII.AssemblyInfoInputs.cache
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\aula2_PooII\aula2_PooII\obj\Debug\net6.0\aula2_PooII.AssemblyInfo.cs
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\aula2_PooII\aula2_PooII\obj\Debug\net6.0\aula2_PooII.csproj.CoreCompileInputs.cache
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\aula2_PooII\aula2_PooII\obj\Debug\net6.0\aula2_PooII.dll
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\aula2_PooII\aula2_PooII\obj\Debug\net6.0\refint\aula2_PooII.dll
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\aula2_PooII\aula2_PooII\obj\Debug\net6.0\aula2_PooII.pdb
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\aula2_PooII\aula2_PooII\obj\Debug\net6.0\aula2_PooII.genruntimeconfig.cache
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\aula2_PooII\aula2_PooII\obj\Debug\net6.0\ref\aula2_PooII.dll
