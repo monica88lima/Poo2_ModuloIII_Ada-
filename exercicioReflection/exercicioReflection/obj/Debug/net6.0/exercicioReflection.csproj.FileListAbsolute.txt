@@ -1,0 +1,15 @@
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioReflection\exercicioReflection\bin\Debug\net6.0\exercicioReflection.exe
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioReflection\exercicioReflection\bin\Debug\net6.0\exercicioReflection.deps.json
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioReflection\exercicioReflection\bin\Debug\net6.0\exercicioReflection.runtimeconfig.json
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioReflection\exercicioReflection\bin\Debug\net6.0\exercicioReflection.dll
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioReflection\exercicioReflection\bin\Debug\net6.0\exercicioReflection.pdb
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioReflection\exercicioReflection\obj\Debug\net6.0\exercicioReflection.csproj.AssemblyReference.cache
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioReflection\exercicioReflection\obj\Debug\net6.0\exercicioReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioReflection\exercicioReflection\obj\Debug\net6.0\exercicioReflection.AssemblyInfoInputs.cache
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioReflection\exercicioReflection\obj\Debug\net6.0\exercicioReflection.AssemblyInfo.cs
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioReflection\exercicioReflection\obj\Debug\net6.0\exercicioReflection.csproj.CoreCompileInputs.cache
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioReflection\exercicioReflection\obj\Debug\net6.0\exercicioReflection.dll
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioReflection\exercicioReflection\obj\Debug\net6.0\refint\exercicioReflection.dll
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioReflection\exercicioReflection\obj\Debug\net6.0\exercicioReflection.pdb
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioReflection\exercicioReflection\obj\Debug\net6.0\exercicioReflection.genruntimeconfig.cache
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioReflection\exercicioReflection\obj\Debug\net6.0\ref\exercicioReflection.dll
