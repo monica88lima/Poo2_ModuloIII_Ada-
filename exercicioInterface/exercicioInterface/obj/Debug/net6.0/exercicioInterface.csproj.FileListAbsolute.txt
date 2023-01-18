@@ -1,0 +1,15 @@
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioInterface\exercicioInterface\obj\Debug\net6.0\exercicioInterface.csproj.AssemblyReference.cache
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioInterface\exercicioInterface\obj\Debug\net6.0\exercicioInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioInterface\exercicioInterface\obj\Debug\net6.0\exercicioInterface.AssemblyInfoInputs.cache
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioInterface\exercicioInterface\obj\Debug\net6.0\exercicioInterface.AssemblyInfo.cs
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioInterface\exercicioInterface\obj\Debug\net6.0\exercicioInterface.csproj.CoreCompileInputs.cache
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioInterface\exercicioInterface\bin\Debug\net6.0\exercicioInterface.exe
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioInterface\exercicioInterface\bin\Debug\net6.0\exercicioInterface.deps.json
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioInterface\exercicioInterface\bin\Debug\net6.0\exercicioInterface.runtimeconfig.json
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioInterface\exercicioInterface\bin\Debug\net6.0\exercicioInterface.dll
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioInterface\exercicioInterface\bin\Debug\net6.0\exercicioInterface.pdb
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioInterface\exercicioInterface\obj\Debug\net6.0\exercicioInterface.dll
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioInterface\exercicioInterface\obj\Debug\net6.0\refint\exercicioInterface.dll
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioInterface\exercicioInterface\obj\Debug\net6.0\exercicioInterface.pdb
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioInterface\exercicioInterface\obj\Debug\net6.0\exercicioInterface.genruntimeconfig.cache
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioInterface\exercicioInterface\obj\Debug\net6.0\ref\exercicioInterface.dll
