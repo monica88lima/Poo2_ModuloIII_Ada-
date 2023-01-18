@@ -50,7 +50,7 @@ namespace exercicioReflection
 
         public static void CreateInstance()
         {
-
+            //não funciona ---verificar
             Type sType = typeof(Student);   
             object sStudent = Activator.CreateInstance(sType);
 
