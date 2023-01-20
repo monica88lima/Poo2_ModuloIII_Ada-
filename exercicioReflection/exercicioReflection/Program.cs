@@ -35,7 +35,7 @@ namespace exercicioReflection
             var tipo = obj.GetType();
 
             StringBuilder builder = new StringBuilder();
-            builder.AppendLine("verificar se aqui e o nome da classe " + tipo.Name);
+            builder.AppendLine("Nome da Classe:" + tipo.Name);
 
             foreach (var prop in tipo.GetProperties())
             {
@@ -50,7 +50,7 @@ namespace exercicioReflection
 
         public static void CreateInstance()
         {
-            //não funciona ---verificar
+            
             Type sType = typeof(Student);   
             object sStudent = Activator.CreateInstance(sType);
 
@@ -58,12 +58,12 @@ namespace exercicioReflection
             PropertyInfo universityProperty = sType.GetProperty("University");
             PropertyInfo rollNumberProperty = sType.GetProperty("RollNumber");
 
-            nameProperty.SetValue(sType, "Maria");
-            universityProperty.SetValue(sType, "XUXU");
-            rollNumberProperty.SetValue(sType, 7000);
+            nameProperty.SetValue(sStudent, "Maria");
+            universityProperty.SetValue(sStudent, "XUXU");
+            rollNumberProperty.SetValue(sStudent, 7000);
 
-            MethodInfo displayInfoMethod = sType.GetMethod("DisplayPublicProperties");
-            displayInfoMethod.Invoke(sType, null);
+            MethodInfo displayInfoMethod = sType.GetMethod("DisplayInfo");
+            displayInfoMethod.Invoke(sStudent, null);
 
             DisplayPublicProperties(sStudent);
 
