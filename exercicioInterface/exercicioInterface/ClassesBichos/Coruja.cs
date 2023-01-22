@@ -13,8 +13,9 @@ namespace exercicioInterface.ClassesBichos
         private readonly IVoar voar;
         public int AltitudeMaximaEmMetros { get; set; }
         public double VelocidadeDoVoo { get; set; }
-        public Coruja(string nome) : base(nome)
+        public Coruja(string nome, DateTime dataNascimento, char genero, bool carnivoro, bool peconhento, bool rapina, bool corpena, int altitude, double velocidade) : base(nome, dataNascimento, genero, carnivoro, peconhento, rapina, corpena)
         {
+            
                 
         }
         public void Voar()

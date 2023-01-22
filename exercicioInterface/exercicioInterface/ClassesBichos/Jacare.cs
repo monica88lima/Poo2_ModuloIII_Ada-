@@ -14,9 +14,12 @@ namespace exercicioInterface.ClassesBichos
         public bool ViveEmTerra { get ; set ; }
         public bool Mergulho { get ; set; }
         public bool AguaDoce { get; set; }
-        public Jacare(string nome) : base(nome)
+        public Jacare(string nome, DateTime dataNascimento, char genero, bool carnivoro, bool peconhento, bool temescamas, bool temcasco) : base(nome, dataNascimento, genero, carnivoro, peconhento, temescamas,temcasco)
         {
-                
+
         }
+
+
+        
     }
 }

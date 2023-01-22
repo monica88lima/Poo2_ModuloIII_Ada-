@@ -16,7 +16,7 @@ namespace exercicioInterface.ClassesBichos
         {
             Console.WriteLine("Botando OVO");
         }
-        public DragaoKomodo(string nome):base(nome)
+        public DragaoKomodo(string nome, DateTime dataNascimento, char genero, bool carnivoro, bool peconhento, bool temescamas, bool temcasco) : base(nome, dataNascimento, genero, carnivoro, peconhento, temescamas, temcasco)
         {
                 
         }

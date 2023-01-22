@@ -14,8 +14,9 @@ namespace exercicioInterface.ClassesBichos
         public int AltitudeMaximaEmMetros { get; set; }
         public double VelocidadeDoVoo { get; set; }
 
-        public Morcego(string nome) : base(nome)
+        public Morcego(string nome, DateTime dataNascimento, char genero, bool carnivoro, bool peconhento, int qtdMamas, bool pelo, string Corpelo) : base(nome, dataNascimento, genero, carnivoro, peconhento, qtdMamas, pelo, Corpelo)
         {
+            
                 
         }
         public void Voar()

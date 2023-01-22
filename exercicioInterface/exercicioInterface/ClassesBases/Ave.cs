@@ -14,9 +14,10 @@ namespace exercicioInterface.ClassesBases
         private readonly IOviparo oviparo;
         public bool Rapina { get; set; }
         public bool CorPena { get; set; }
-        public Ave(string nome) : base(nome)
+        public Ave(string nome, DateTime dataNascimento, char genero, bool carnivoro, bool peconhento, bool rapina, bool corpena) : base(nome, dataNascimento,genero,carnivoro,peconhento)
         {
-
+            this.Rapina = rapina;
+            this.CorPena = corpena;
         }
 
         public void Ciscar()
@@ -32,6 +33,14 @@ namespace exercicioInterface.ClassesBases
         public void Chocar()
         {
             Console.WriteLine($"{Nome} está CHOCANDO O OVO");
+        }
+
+        public override void ApresentarAnimal()
+        {
+            string mensagem = $"Animal: {Nome}\n" +
+                $"Idade: {Idade}\nSexo:{Sexo}\nCarnivoro:{Carnivoro}\nPeconhento{Peconhento}\n" +
+                $"E de Rapina:{Rapina}\nPena tem Cor:{CorPena}";
+            base.ApresentarAnimal();
         }
     }
 }

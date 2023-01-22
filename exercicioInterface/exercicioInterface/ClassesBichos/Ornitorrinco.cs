@@ -12,8 +12,9 @@ namespace exercicioInterface.ClassesBichos
     {
         private readonly IAquatico aquatico;
         private readonly IOviparo oviparo;
-        public Ornitorrinco(string nome) : base(nome)
+        public Ornitorrinco(string nome, DateTime dataNascimento, char genero, bool carnivoro, bool peconhento, int qtdMamas, bool pelo, string Corpelo) : base(nome, dataNascimento, genero, carnivoro, peconhento, qtdMamas, pelo, Corpelo)
         {
+            
 
         }
         public bool ViveEmTerra { get; set; }

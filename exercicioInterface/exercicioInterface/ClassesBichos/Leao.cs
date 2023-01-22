@@ -10,10 +10,10 @@ namespace exercicioInterface.ClassesBichos
 {
     public class Leao:Mamifero
     {
-
-        public Leao(string nome) : base(nome)
+        public Leao(string nome, DateTime dataNascimento, char genero, bool carnivoro, bool peconhento, int qtdMamas, bool pelo, string Corpelo) : base(nome, dataNascimento, genero, carnivoro, peconhento, qtdMamas,pelo,Corpelo)
         {
                 
         }
+        
     }
 }

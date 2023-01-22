@@ -17,7 +17,7 @@ namespace exercicioInterface.ClassesBichos
         public bool AguaDoce { get; set; }
         public int AltitudeMaximaEmMetros { get; set; }
         public double VelocidadeDoVoo { get; set; }
-        public Cisne(string nome) : base(nome)
+        public Cisne(string nome, DateTime dataNascimento, char genero, bool carnivoro, bool peconhento, bool rapina, bool corpena, int altitude, double velocidade) : base(nome, dataNascimento, genero, carnivoro, peconhento, rapina, corpena)
         {
                 
         }

@@ -14,8 +14,9 @@ namespace exercicioInterface.ClassesBichos
         public bool ViveEmTerra { get; set; }
         public bool Mergulho { get; set; }
         public bool AguaDoce { get; set; }
-        public Lontra(string nome) : base(nome)
+        public Lontra(string nome, DateTime dataNascimento, char genero, bool carnivoro, bool peconhento, int qtdMamas, bool pelo, string Corpelo) : base(nome, dataNascimento, genero, carnivoro, peconhento, qtdMamas, pelo, Corpelo)
         {
+            
                 
         }
     }

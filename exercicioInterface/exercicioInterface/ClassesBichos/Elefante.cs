@@ -9,9 +9,12 @@ namespace exercicioInterface.ClassesBichos
 {
     public class Elefante:Mamifero
     {
-        public Elefante(string nome) : base(nome)
+        public Elefante(string nome, DateTime dataNascimento, char genero, bool carnivoro, bool peconhento, int qtdMamas, bool pelo, string Corpelo) : base(nome, dataNascimento, genero, carnivoro, peconhento, qtdMamas, pelo, Corpelo)
         {
-                
+
         }
+
+
+        
     }
 }

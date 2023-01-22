@@ -10,7 +10,7 @@ namespace exercicioInterface.ClassesBichos
 {
     public class Chacal:Mamifero
     {
-        public Chacal(string nome) : base(nome)
+        public Chacal(string nome, DateTime dataNascimento, char genero, bool carnivoro, bool peconhento, int qtdMamas, bool pelo, string Corpelo) : base(nome, dataNascimento, genero, carnivoro, peconhento, qtdMamas,pelo,Corpelo)
         {
                 
         }
