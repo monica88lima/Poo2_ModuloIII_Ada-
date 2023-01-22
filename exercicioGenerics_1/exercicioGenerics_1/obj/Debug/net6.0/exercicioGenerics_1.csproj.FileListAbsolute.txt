@@ -1,0 +1,15 @@
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioGenerics_1\exercicioGenerics_1\bin\Debug\net6.0\exercicioGenerics_1.exe
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioGenerics_1\exercicioGenerics_1\bin\Debug\net6.0\exercicioGenerics_1.deps.json
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioGenerics_1\exercicioGenerics_1\bin\Debug\net6.0\exercicioGenerics_1.runtimeconfig.json
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioGenerics_1\exercicioGenerics_1\bin\Debug\net6.0\exercicioGenerics_1.dll
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioGenerics_1\exercicioGenerics_1\bin\Debug\net6.0\exercicioGenerics_1.pdb
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioGenerics_1\exercicioGenerics_1\obj\Debug\net6.0\exercicioGenerics_1.csproj.AssemblyReference.cache
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioGenerics_1\exercicioGenerics_1\obj\Debug\net6.0\exercicioGenerics_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioGenerics_1\exercicioGenerics_1\obj\Debug\net6.0\exercicioGenerics_1.AssemblyInfoInputs.cache
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioGenerics_1\exercicioGenerics_1\obj\Debug\net6.0\exercicioGenerics_1.AssemblyInfo.cs
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioGenerics_1\exercicioGenerics_1\obj\Debug\net6.0\exercicioGenerics_1.csproj.CoreCompileInputs.cache
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioGenerics_1\exercicioGenerics_1\obj\Debug\net6.0\exercicioGenerics_1.dll
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioGenerics_1\exercicioGenerics_1\obj\Debug\net6.0\refint\exercicioGenerics_1.dll
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioGenerics_1\exercicioGenerics_1\obj\Debug\net6.0\exercicioGenerics_1.pdb
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioGenerics_1\exercicioGenerics_1\obj\Debug\net6.0\exercicioGenerics_1.genruntimeconfig.cache
+C:\Users\rishi\source\repos\Poo2_ModuloIII_Ada-\exercicioGenerics_1\exercicioGenerics_1\obj\Debug\net6.0\ref\exercicioGenerics_1.dll
